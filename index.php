@@ -33,6 +33,7 @@ echo "in the first string. <br/><br/>";
 echo "We can concatenate the strings:<br/><br/>";
 echo ($mytext1) . " " . $mytext2 . "\n";
 
+echo "<br/> <br/>";
 echo "Your browser is: $browser";
 
 
